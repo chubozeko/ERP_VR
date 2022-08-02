@@ -75,3 +75,19 @@ DerivedDataCache/*
 
 # Imported Assets
 Content/Assets/*
+Content/CitySampleCrowd/Character/Shared/Rig/Neck_CtrlRig.uasset
+Content/CitySampleCrowd/Character/Shared/Rig/metahuman_proc_ControlRig.uasset
+Content/CitySampleCrowd/Character/Shared/Rig/MetaHuman_ControlRig.uasset
+Content/CitySampleCrowd/Character/Shared/Rig/Face_ControlBoard_CtrlRig.uasset
+Content/CitySampleCrowd/Character/Male/m_006/Face/m_006_nrw_FaceMesh.uasset
+Content/CitySampleCrowd/Character/Male/m_005/Face/m_005_nrw_FaceMesh.uasset
+Content/CitySampleCrowd/Character/Male/m_004/Face/m_004_nrw_FaceMesh.uasset
+Content/CitySampleCrowd/Character/Male/m_003/Face/m_003_nrw_FaceMesh.uasset
+Content/CitySampleCrowd/Character/Male/m_002/Face/m_002_nrw_FaceMesh.uasset
+Content/CitySampleCrowd/Character/Male/m_001/Face/m_001_nrw_FaceMesh.uasset
+Content/CitySampleCrowd/Character/Female/f_006/Face/f_006_nrw_FaceMesh.uasset
+Content/CitySampleCrowd/Character/Female/f_005/Face/f_005_nrw_FaceMesh.uasset
+Content/CitySampleCrowd/Character/Female/f_004/Face/f_004_nrw_FaceMesh.uasset
+Content/CitySampleCrowd/Character/Female/f_003/Face/f_003_nrw_FaceMesh.uasset
+Content/CitySampleCrowd/Character/Female/f_002/Face/f_002_nrw_FaceMesh.uasset
+Content/CitySampleCrowd/Character/Female/f_001/Face/f_001_nrw_FaceMesh.uasset

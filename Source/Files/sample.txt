@@ -1,0 +1,4 @@
+Experiment 1,1,6.8,Something else
+Experiment 1,2,5.2,Something better
+Experiment 2,1,0.3,Something lonely
+Experiment 2,2,4.7,Something grand
