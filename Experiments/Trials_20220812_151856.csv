@@ -1,0 +1,5 @@
+Trial Number,Experiment ID,Exemplar Name,Exemplar Type,Exemplar Start Time,Exemplar End Time,Cue Word,Response,Response Start Time,Response End Time
+0,2,Ex_Office_3,Office,15:19:06:53:00,15:19:11:62:00,City Street,NO,15:19:13:308:00,15:19:17:771:00
+1,2,Ex_Office_2,Office,15:19:30:276:00,15:19:35:297:00,Office,YES,15:19:37:522:00,15:19:39:642:00
+2,2,Ex_Office_4,Office,15:19:52:34:00,15:19:57:50:00,Office,YES,15:19:59:298:00,15:20:01:374:00
+3,2,Ex_Office_1,Office,15:20:13:662:00,15:20:18:684:00,Office,YES,15:20:20:905:00,15:20:22:846:00
