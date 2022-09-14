@@ -41,6 +41,14 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "OnlineSubsystemGoogle",
+			"Enabled": true
+		},
+		{
+			"Name": "SERIALCOM",
+			"Enabled": true
 		}
 	]
 }

@@ -91,3 +91,6 @@ Content/CitySampleCrowd/Character/Female/f_004/Face/f_004_nrw_FaceMesh.uasset
 Content/CitySampleCrowd/Character/Female/f_003/Face/f_003_nrw_FaceMesh.uasset
 Content/CitySampleCrowd/Character/Female/f_002/Face/f_002_nrw_FaceMesh.uasset
 Content/CitySampleCrowd/Character/Female/f_001/Face/f_001_nrw_FaceMesh.uasset
+*.apk
+*.bat
+*.obb
