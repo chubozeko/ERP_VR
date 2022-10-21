@@ -1,0 +1,6 @@
+Trial Number,Experiment ID,Exemplar Name,Exemplar Type,Exemplar Start Time,Exemplar End Time,Cue Word,Response,Response Start Time,Response End Time
+0,2,Ex_Forest_5,Forest,16:09:15:675:00,16:09:20:690:00,Beach,NO,16:09:22:911:00,16:09:25:59:00
+1,2,Ex_CityStreet_9,City Street,16:09:35:994:00,16:09:41:05:00,City Street,YES,16:09:43:230:00,16:09:45:153:00
+2,2,Ex_Beach_7,Beach,16:09:55:804:00,16:10:00:816:00,City Street,NO,16:10:03:41:00,16:10:05:200:00
+3,2,Ex_Mountain_5,Mountain,16:10:15:807:00,16:10:20:808:00,Mountain,YES,16:10:23:55:00,16:10:26:680:00
+4,2,Ex_Office_7,Office,16:10:37:69:00,16:10:42:81:00,Office,YES,16:10:44:327:00,16:10:46:474:00
