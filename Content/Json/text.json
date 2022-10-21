@@ -1,0 +1,13 @@
+{
+	"category":
+	{
+		"beach": false,
+		"city_Street": false,
+		"forest": true,
+		"none": false
+	},
+	"exemplar_id": "EXF014",
+	"rating": 3,
+	"response_time_category": "10/14/2022, 5:51:09 PM",
+	"response_time_rating": "10/14/2022, 5:51:14 PM"
+}
