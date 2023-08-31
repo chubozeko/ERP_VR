@@ -18,11 +18,13 @@ FExemplarData UBPFL_JsonLoader::LoadFromJsonString(FString JsonString)
 		EData.Response_time_category = JsonValueObject->GetStringField(TEXT("response_time_category"));
 		EData.Response_time_rating = JsonValueObject->GetStringField(TEXT("response_time_rating"));
 
+		/*
 		TSharedPtr<FJsonObject> catObj = JsonValueObject->GetObjectField(TEXT("category"));
-		EData.Category.Beach = catObj->GetBoolField(TEXT("beach"));
-		EData.Category.City_street = catObj->GetBoolField(TEXT("city_street"));
-		EData.Category.Forest = catObj->GetBoolField(TEXT("forest"));
-		EData.Category.None = catObj->GetBoolField(TEXT("none"));
+		EData.Ex_category.Beach = catObj->GetBoolField(TEXT("beach"));
+		EData.Ex_category.City_street = catObj->GetBoolField(TEXT("city_street"));
+		EData.Ex_category.Forest = catObj->GetBoolField(TEXT("forest"));
+		EData.Ex_category.None = catObj->GetBoolField(TEXT("none"));
+		*/
 
 		// UE_LOG(LogTemp, Warning, TEXT("Exemplar Id: %s, Rating: %d, Category=Forest: %d"), *EData.Exemplar_id, EData.Rating, EData.Category.Forest);
 	}

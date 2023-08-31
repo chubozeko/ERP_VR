@@ -32,7 +32,7 @@ struct FExemplarData
 
 public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = JsonData)
-	FExemplarCategoryData Category;
+	FExemplarCategoryData Ex_category;
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = JsonData)
 	FString Exemplar_id;
